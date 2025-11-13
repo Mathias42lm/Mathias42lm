@@ -2,7 +2,7 @@
 
 ## 🚀 À propos de moi
 
-Je suis **étudiant développeur** passionné par l'informatique et les technologies. Actuellement en formation à **42 School** et membre actif de l'association **Hackcess** 🔐, je consacre mon temps à apprendre et à créer des projets innovants.
+Je suis **étudiant en Reseaux et Telecomunication** passionné par l'informatique et les technologies. Actuellement en formation à **IUT Roanne** et membre actif de l'association **Hackcess** 🔐, je consacre mon temps à apprendre et à créer des projets innovants.
 
 ## 💼 Expérience
 
