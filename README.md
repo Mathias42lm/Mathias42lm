@@ -1,16 +1,50 @@
-## Salut 👋
+# Salut, moi c'est Mathias 👋
 
-<!--
-**Mathias42lm/Mathias42lm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 À propos de moi
 
-Here are some ideas to get you started:
+Je suis **étudiant développeur** passionné par l'informatique et les technologies. Actuellement en formation à **42 School** et membre actif de l'association **Hackcess** 🔐, je consacre mon temps à apprendre et à créer des projets innovants.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Expérience
+
+- 🎓 **42 School** - Formation intensive en programmation
+- 🔐 **Membre de l'association Hackcess** - Passionné par la cybersécurité et le hacking éthique
+- 💻 Développement d'un **e-portfolio** personnel avec des technologies web modernes
+
+## 🛠️ Technologies & Compétences
+
+### Langages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Outils
+![Twig](https://img.shields.io/badge/Twig-339933?style=for-the-badge&logo=twig&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+## 📊 Statistiques GitHub
+
+![Mathias' GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathias42lm&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathias42lm&layout=compact&theme=radical)
+
+## 🔥 Projets Principaux
+
+- **[42-c-pool](https://github.com/Mathias42lm/42-c-pool)** - Ma piscine C à l'école 42 🏊‍♂️
+- **[EportfolioMathias](https://github.com/Mathias42lm/EportfolioMathias)** - E-portfolio personnel (SAE 1.04) développé avec Twig
+
+## 🌱 Actuellement en train d'apprendre
+
+- 🔧 Programmation système avec le langage C
+- 🌐 Développement web avec PHP et Twig
+- 🔒 Cybersécurité et ethical hacking avec Hackcess
+- 💡 Algorithmique et structures de données
+
+## 📫 Me contacter
+
+[![GitHub](https://img.shields.io/badge/GitHub-Mathias42lm-181717?style=for-the-badge&logo=github)](https://github.com/Mathias42lm)
+
+---
+
+⭐️ N'hésite pas à explorer mes repositories et à me contacter pour des collaborations !
