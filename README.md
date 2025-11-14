@@ -2,7 +2,7 @@
 
 ## 🚀 À propos de moi
 
-Je suis **étudiant en Reseaux et Telecomunication** passionné par l'informatique et les technologies. Actuellement en formation à **IUT Roanne** et membre actif de l'association **Hackcess** 🔐, je consacre mon temps à apprendre et à créer des projets innovants.
+Je suis **étudiant en BUT RT** passionné par l'informatique et les technologies. Actuellement en formation à **IUT Roanne** et membre actif de l'association **Hackcess** 🔐, je consacre mon temps à apprendre et à créer des projets innovants.
 
 ## 💼 Expérience
 
@@ -25,9 +25,11 @@ Je suis **étudiant en Reseaux et Telecomunication** passionné par l'informatiq
 
 ## 📊 Statistiques GitHub
 
-![Mathias' GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathias42lm&show_icons=true&theme=radical)
+![Mathias' GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathias42lm&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathias42lm&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathias42lm&layout=compact&theme=radical&langs_count=8&hide=jupyter%20notebook)
+
+![C Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mathias42lm&layout=compact&theme=radical&v=2)
 
 ## 🔥 Projets Principaux
 
@@ -44,6 +46,7 @@ Je suis **étudiant en Reseaux et Telecomunication** passionné par l'informatiq
 ## 📫 Me contacter
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mathias42lm-181717?style=for-the-badge&logo=github)](https://github.com/Mathias42lm)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](Mathias42lm)
 
 ---
 
