@@ -2,7 +2,7 @@
 
 ## 🚀 À propos de moi
 
-Je suis **étudiant développeur** passionné par l'informatique et les technologies. Actuellement en formation à **42 School** et membre actif de l'association **Hackcess** 🔐, je consacre mon temps à apprendre et à créer des projets innovants.
+Je suis **étudiant en BUT RT** passionné par l'informatique et les technologies. Actuellement en formation à **IUT Roanne** et membre actif de l'association **Hackcess** 🔐, je consacre mon temps à apprendre et à créer des projets innovants.
 
 ## 💼 Expérience
 
@@ -46,7 +46,7 @@ Je suis **étudiant développeur** passionné par l'informatique et les technolo
 ## 📫 Me contacter
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mathias42lm-181717?style=for-the-badge&logo=github)](https://github.com/Mathias42lm)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](Mathias42lm)
 
 ---
 
