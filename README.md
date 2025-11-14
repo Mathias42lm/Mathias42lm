@@ -46,7 +46,9 @@ Je suis **étudiant en BUT RT** passionné par l'informatique et les technologie
 ## 📫 Me contacter
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mathias42lm-181717?style=for-the-badge&logo=github)](https://github.com/Mathias42lm)
+<!--
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](Mathias42lm)
+-->
 
 ---
 
