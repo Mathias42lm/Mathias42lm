@@ -15,7 +15,6 @@
 
 Bienvenue sur mon profil GitHub ! Je suis **étudiant en BUT Réseaux & Télécommunications** à l'**IUT de Roanne**, passionné par l'informatique, les technologies et la cybersécurité.
 
-- 🎓 Formation intensive en programmation à **42 School**
 - 🔐 Membre actif de l'association **Hackcess** - Cybersécurité et hacking éthique
 - 💻 Créateur de projets innovants et d'applications web modernes
 - 🌱 Toujours en apprentissage continu et avide de nouveaux défis
