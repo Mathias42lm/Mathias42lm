@@ -101,7 +101,6 @@ Bienvenue sur mon profil GitHub ! Je suis **étudiant en BUT Réseaux & Téléco
 
 ## 🎯 Objectifs 2026
 
-- ✅ Compléter avec succès la formation à 42 School
 - 🎓 Exceller dans le cursus BUT RT à l'IUT de Roanne
 - 🚀 Contribuer à des projets open source
 - 🔐 Approfondir mes compétences en cybersécurité
