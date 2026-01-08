@@ -74,7 +74,7 @@ Bienvenue sur mon profil GitHub ! Je suis **étudiant en BUT Réseaux & Téléco
 | Projet | Description | Technologies |
 |--------|-------------|--------------|
 | **[42-c-pool](https://github.com/Mathias42lm/42-c-pool)** | Ma piscine C à l'école 42 - Exercices intensifs de programmation 🏊‍♂️ | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
-| **[EportfolioMathias](https://github.com/Mathias42lm/EportfolioMathias)** | E-portfolio personnel (SAE 1.04) - Site web professionnel | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Twig](https://img.shields.io/badge/Twig-339933?style=flat-square&logoColor=white) |
+| **[EportfolioMathias](https://github.com/Mathias42lm/EportfolioMathias)** | E-portfolio personnel (SAE 1.04) - Site web professionnel | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Twig](https://img.shields.io/badge/Twig-339933?style=flat-square&logo=twig&logoColor=white) |
 
 </div>
 
