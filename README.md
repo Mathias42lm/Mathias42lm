@@ -28,6 +28,7 @@ Bienvenue sur mon profil GitHub ! Je suis **étudiant en BUT Réseaux & Téléco
 <div align="center">
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -39,7 +40,12 @@ Bienvenue sur mon profil GitHub ! Je suis **étudiant en BUT Réseaux & Téléco
 
 <div align="center">
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Twig](https://img.shields.io/badge/Twig-339933?style=for-the-badge&logo=twig&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -74,6 +80,10 @@ Bienvenue sur mon profil GitHub ! Je suis **étudiant en BUT Réseaux & Téléco
 |--------|-------------|--------------|
 | **[42-c-pool](https://github.com/Mathias42lm/42-c-pool)** | Ma piscine C à l'école 42 - Exercices intensifs de programmation 🏊‍♂️ | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
 | **[EportfolioMathias](https://github.com/Mathias42lm/EportfolioMathias)** | E-portfolio personnel (SAE 1.04) - Site web professionnel | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Twig](https://img.shields.io/badge/Twig-339933?style=flat-square&logo=twig&logoColor=white) |
+| **[SAE05_mathias](https://github.com/Mathias42lm/SAE05_mathias)** | Analyseur de trafic réseau (SAE 1.05) - Dashboard web avec détection de scans de ports et SYN floods 🔒 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) |
+| **[SAE-2.03](https://github.com/Mathias42lm/SAE-2.03)** | Déploiement de WordPress containerisé (SAE 2.03) - Stack WordPress + MariaDB + phpMyAdmin avec Docker Compose 🐳 | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| **[SAE-2.04](https://github.com/Mathias42lm/SAE-2.04)** | SAE 2.04 IUT Roanne - Scripts réseau en 4 parties (configuration IP et outils réseau) 🌐 | ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
+| **[R2.09](https://github.com/Mathias42lm/R2.09)** | Application Kanban (R2.09) - Tableau de gestion de tâches avec React, Vite et backend Supabase 📋 | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
 
 </div>
 
@@ -87,14 +97,18 @@ Bienvenue sur mon profil GitHub ! Je suis **étudiant en BUT Réseaux & Téléco
 🔒 Cybersécurité & Ethical Hacking ██████████████░░░░░░  70%
 💡 Algorithmique & Structures     █████████████████░░░  85%
 🌐 Réseaux & Télécommunications   ███████████████████░  95%
+🐳 DevOps & Conteneurisation      ████████████░░░░░░░░  60%
+⚛️  Développement React/Frontend   █████████████░░░░░░░  65%
 ```
 
 **Domaines d'apprentissage actuels :**
 - Programmation système avancée avec le langage C
-- Développement web moderne avec PHP et Twig
+- Développement web moderne avec PHP, Twig, React et Vite
 - Cybersécurité et ethical hacking avec l'association Hackcess
 - Algorithmique, structures de données et optimisation
 - Architecture réseau et protocoles de communication
+- Conteneurisation avec Docker et Docker Compose
+- Développement d'applications React avec backend Supabase
 
 ---
 
